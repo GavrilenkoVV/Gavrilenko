@@ -1,0 +1,5 @@
+#folder logs alls files
+logs/ 
+
+#txt ignore
+docs/*.txt
